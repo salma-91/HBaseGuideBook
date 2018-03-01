@@ -1,5 +1,5 @@
 package com.hbase.guide.chap03;
-
+//Example 3-2. Example application inserting data into HBase
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
 import org.apache.hadoop.hbase.TableName;

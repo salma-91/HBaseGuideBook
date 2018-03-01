@@ -1,14 +1,14 @@
 # HBaseGuideBook
 
-Example 3-1: Shows how to use the cell scanner:
+Example 3-1. Shows how to use the cell scanner:
 
 Example 3-2. Example application inserting data into HBase: PutExample.java
 
 Example 3-3. Shows the use of the client side write buffer: BufferedMutatorExample.java
 
-Example 3-4. Example using the client-side write buffer
+Example 3-4. Example using the client-side write buffer: PutWriteBufferExample1.java
 
-Example 3-5. Example inserting data into HBase using a list
+Example 3-5. Example inserting data into HBase using a list: PutListExample.java
 
 Example 3-6. Example inserting a faulty column family into HBase
 

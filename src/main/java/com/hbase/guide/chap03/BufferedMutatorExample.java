@@ -1,5 +1,5 @@
 package com.hbase.guide.chap03;
-
+//Example 3-3. Shows the use of the client side write buffer
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;

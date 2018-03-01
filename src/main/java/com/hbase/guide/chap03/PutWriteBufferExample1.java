@@ -1,6 +1,6 @@
 package com.hbase.guide.chap03;
 
-//Example using the client-side write buffer
+//Example 3-4. Example using the client-side write buffer
 import java.io.IOException;
 
 import org.apache.hadoop.conf.Configuration;
