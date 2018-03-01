@@ -1,4 +1,4 @@
-package com.hbaseguide.chap03;
+package com.hbase.guide.chap03;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;

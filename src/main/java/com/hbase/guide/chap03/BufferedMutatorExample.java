@@ -1,4 +1,4 @@
-package com.hbaseguide.chap03;
+package com.hbase.guide.chap03;
 
 import java.io.IOException;
 import java.util.ArrayList;

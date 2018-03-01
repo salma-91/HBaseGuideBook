@@ -1,4 +1,4 @@
-package com.hbaseguide.utils;
+package com.hbase.guide.utils;
 
 import java.io.Closeable;
 import java.io.IOException;
