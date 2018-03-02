@@ -10,23 +10,23 @@ Example 3-4. Example using the client-side write buffer: PutWriteBufferExample1.
 
 Example 3-5. Example inserting data into HBase using a list: PutListExample.java
 
-Example 3-6. Example inserting a faulty column family into HBase
+Example 3-6. Example inserting a faulty column family into HBase: PutListErrorExample1.java
 
-Example 3-7. Special error handling with lists of puts
+Example 3-7. Special error handling with lists of puts: PutListErrorExample2.java
 
-Example 3-8. Example using the client-side write buffer
+Example 3-8. Example using the client-side write buffer: PutWriteBufferExample2.java
 
-Example 3-9. Example application using the atomic compare-and-set operations
+Example 3-9. Example application using the atomic compare-and-set operations: CheckAndPutExample.java
 
-Example 3-10. Example application retrieving data from HBase
+Example 3-10. Example application retrieving data from HBase: GetExample.java
 
-EXAMPLE 3-11. CREATES A GET REQUEST USING ITS FLUENT INTERFACE
+EXAMPLE 3-11. CREATES A GET REQUEST USING ITS FLUENT INTERFACE: GetFluentExample.java
 
-Example 3-12. Checks for the existence of specific data
+Example 3-12. Checks for the existence of specific data: 
 
-Example 3-13. Retrieves a row close to the requested, if necessary
+Example 3-13. Retrieves a row close to the requested, if necessary: ResultExample.java
 
-Example 3-14. Retrieves parts of a row with offset and limit
+Example 3-14. Retrieves parts of a row with offset and limit: GetMaxResultsRowOffsetExample1.java
 
 Example 3-15. Retrieves parts of a row with offset and limit #2
 
