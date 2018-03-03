@@ -30,6 +30,14 @@ public class BatchExample {
 
   public static void main(String[] args) throws IOException, InterruptedException {
     Configuration conf = HBaseConfiguration.create();
+    /*
+	 * if not exist===> ERROR [main] (ConnectionManager.java:900) - The node /hbase
+	 * is not in ZooKeeper. It should have been written by the master. Check the
+	 * value configured in 'zookeeper.znode.parent'. There could be a mismatch with
+	 * the one configured in the master.
+	 */
+	conf.set("zookeeper.znode.parent", "/hbase-unsecure");
+
 
     Helper helper = Helper.getHelper(conf);
     helper.dropTable("testtable");

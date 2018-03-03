@@ -60,4 +60,11 @@ Example 3-29. Example timeout while using a scanner: ScanTimeoutExample.java
 
 Example 3-30. Example using caching and batch parameters for scans: ScanCacheBatchExample.java
 
-Example 3-31. Example using offset and limit parameters for scans: ScanSlicingExample
+Example 3-31. Example using offset and limit parameters for scans: ScanSlicingExample.java
+
+Example 4-1. Example using a filter to select specific rows: RowFilterExample.java
+
+Example 4-2. Example using a filter to include only specific column families: FamilyFilterExample.java
+
+Example 4-3. Example using a filter to include only specific column qualifiers: QualifierFilterExample
+
